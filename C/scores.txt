@@ -1,0 +1,51 @@
+               THE LIST OF PEOPLE WHO ATTEMPTED MY QUIZ AND DID MAVEROUS
+		      IN AKING MY CODE MORE LIVELY.
+
+
++----------------------+--------+----------+----------+--------+-------------------------------+
+| Name                 | Score  | Total    | Percent  | Grade  | Time Taken (seconds)          |
++----------------------+--------+----------+----------+--------+-------------------------------+
+| Peter                |      8 |       10 |   80.00% |   B    | 0.00                          |
+| Brandon              |      8 |       10 |   80.00% |   B    | 0.00                          |
+| Francis              |     10 |       10 |  100.00% |   A    | 0.00                          |
+| sharon               |      5 |       10 |   50.00% |   C    | 0.00                          |
+| Maria Bosibori       |      7 |       10 |   70.00% |   B    | 0.00                          |
+| Victor               |      9 |       10 |   90.00% |   A    | 0.00                          |
+| Melody Njogu         |      8 |       10 |   80.00% |   B    | 0.00                          |
+| Emmanuel Wanjala     |      7 |       10 |   70.00% |   B    | 0.00                          |
+| Holy Monk            |     10 |       10 |  100.00% |   A    | 0.00                          |
+| Edwin Mugo           |      5 |       10 |   50.00% |   C    | 0.00                          |
+| Bonface Korir        |     10 |       10 |  100.00% |   A    | 19.00                         |
+| Ben Kipchumba        |      6 |       10 |   60.00% |   C    | 45.00                         |
+| Lewis Ndoro          |      5 |       10 |   50.00% |   C    | 245.00                        |
+| Bongori Maina        |      5 |       10 |   50.00% |   C    | 219.00                        |
+| Mutegi maina         |      3 |       10 |   30.00% |   D    | 159.00                        |
+| Eric Omondi          |     10 |       10 |  100.00% |   A    | 42.00                         |
+| Fidel Maina          |      2 |       10 |   20.00% |   F    | 33.00                         |
+| Bosnia Waiganjo      |      2 |       10 |   20.00% |   F    | 71.00                         |
+| Benard               |      0 |       10 |    0.00% |   F    | 27.00                         |
+| Billy                |      2 |       10 |   20.00% |   F    | 34.00                         |
+| Bossi                |      1 |       10 |   10.00% |   F    | 17.00                         |
+| Wembley              |      4 |       10 |   40.00% |   D    | 22.00                         |
+| Chome                |      0 |       10 |    0.00% |   F    | 12.00                         |
+| Atwoli               |      8 |       10 |   80.00% |   B    | 48.00                         |
+| Bien Sould           |      8 |       10 |   80.00% |   B    | 43.00                         |
+| Mbugua wamakobe      |      8 |       10 |   80.00% |   B    | 35.00                         |
+| Morio Mwizi          |      1 |       10 |   10.00% |   F    | 14.00                         |
+| Moses                |     10 |       10 |  100.00% |   A    | 33.00                         |
+| Menogo Mkora         |     10 |       10 |  100.00% |   A    | 29.00                         |
+| Kariuki Muiru        |     10 |       10 |  100.00% |   A    | 32.00                         |
+| Psyche               |      9 |       10 |   90.00% |   A    | 34.00                         |
+| MOgo Chege           |     10 |       10 |  100.00% |   A    | 25.00                         |
+| Michael Njenga       |      6 |       10 |   60.00% |   C    | 41.00                         |
+| Bill Muchiri         |      8 |       10 |   80.00% |   B    | 24.00                         |
+| Joseph Migui         |      5 |       10 |   50.00% |   C    | 11.00                         |
+| Merlin Rodney        |      2 |       10 |   20.00% |   F    | 11.00                         |
+| Adam                 |      2 |       10 |   20.00% |   F    | 13.00                         |
+| Davina               |      2 |       10 |   20.00% |   F    | 11.00                         |
+| Mercellus            |      0 |       10 |    0.00% |   F    | 20.00                         |
+| Tike                 |      4 |       10 |   40.00% |   D    | 17.00                         |
+| BMW tech             |      4 |       10 |   40.00% |   D    | 11.00                         |
+| Nikola Tesla         |      8 |       10 |   80.00% |   B    | 18.00                         |
+| Kungu                |      6 |       10 |   60.00% |   C    | 18.00                         |
+| Mengo                |      7 |       10 |   70.00% |   B    | 29.00                         |
